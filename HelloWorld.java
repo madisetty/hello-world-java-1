@@ -35,25 +35,7 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
+    System.out.println("HIT THE WEBHOOK JOB.........,,,");
     
 
   }
