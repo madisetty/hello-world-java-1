@@ -37,23 +37,12 @@ public class HelloWorld {
     System.out.println("hi punu.....hi gani.........,,,");
      System.out.println("hi punu.....hi gani.........,,,");
      System.out.println("hi punu.....hi gani.........,,,");
+     System.out.println("THE LINES ADDE BY LINUX CLI");
+     System.out.println("THE LINES ADDE BY LINUX CLI");
+     System.out.println("THE LINES ADDE BY LINUX CLI");
+     System.out.println("THE LINES ADDE BY LINUX CLI");
+     System.out.println("THE LINES ADDE BY LINUX CLI");
      System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("today we added new file");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
-    System.out.println("hi roja.....hi Nitesh.........,,,");
     
 
   }
