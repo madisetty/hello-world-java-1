@@ -41,6 +41,9 @@ public class HelloWorld {
     System.out.println("HIT THE WEBHOOK JOB.........,,,");
     System.out.println("HIT THE WEBHOOK JOB.........,,,");
     System.out.println("HIT THE WEBHOOK JOB.........,,,");
+    System.out.println("HIT POLL SCM USING WINDOWS.........,,,");
+    System.out.println("HIT POLL SCM USING WINDOWS.........,,,");
+    System.out.println("HIT POLL SCM USING WINDOWS.........,,,");
     
 
   }
