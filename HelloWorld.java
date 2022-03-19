@@ -35,14 +35,12 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("hi punu.....hi gani.........,,,");
-     System.out.println("THE LINES ADDE BY LINUX CLI");
-     System.out.println("THE LINES ADDE BY LINUX CLI");
-     System.out.println("THE LINES ADDE BY LINUX CLI");
-     System.out.println("THE LINES ADDE BY LINUX CLI");
-     System.out.println("THE LINES ADDE BY LINUX CLI");
-     System.out.println("hi punu.....hi gani.........,,,");
+    System.out.println("HIT THE WEBHOOK JOB.........,,,");
+    System.out.println("HIT THE WEBHOOK JOB.........,,,");
+    System.out.println("HIT THE WEBHOOK JOB.........,,,");
+    System.out.println("HIT THE WEBHOOK JOB.........,,,");
+    System.out.println("HIT THE WEBHOOK JOB.........,,,");
+    System.out.println("HIT THE WEBHOOK JOB.........,,,");
     
 
   }
